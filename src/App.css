@@ -1,0 +1,18 @@
+
+.App {
+  text-align: center;
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.Card{
+  width: 30%;
+  border: 2px solid black;
+  
+}
+
+img {
+  width: 30%;
+  /*  */
+}
